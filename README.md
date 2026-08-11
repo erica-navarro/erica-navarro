@@ -145,6 +145,6 @@ Interested in collaborating on projects involving software engineering, AI syste
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn]
-* Portfolio: [Your Portfolio]
-* Email: [Your Professional Email]
+* LinkedIn: [https://www.linkedin.com/in/erica-navarro/]
+* Portfolio: [https://ericanavarro.online]
+* Email: [navarro.quant@gmail.com]
